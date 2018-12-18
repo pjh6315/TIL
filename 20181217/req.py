@@ -18,4 +18,3 @@ result = soup.select_one('#exchangeList > li.on > a.head.usd > div > span.value'
 
 print('지금 원/달러 환율은 ' + result + ' 입니다.')
 print(f'지금 원/달러 환율은 {result} 입니다.')
-
