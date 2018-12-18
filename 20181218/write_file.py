@@ -3,5 +3,15 @@
 # f.close()
 
 
+# \t : tab
+# \\ : 백슬래시 '\' 입력하고싶을때
+# \' \" : 마찬가지
+
+
 with open('ssafy.txt','w',encoding='utf8') as f:
-    f.write('This is SSAFY!!!!!!,이용했다')
+    f.writelines(['1\n','2\n','3\n'])
+    
+    """
+    for i in range(10):
+        f.write(f'This is \"SSAFY\"!!!!!! {i}\n')
+    """
