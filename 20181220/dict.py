@@ -109,7 +109,7 @@ for a in city.keys():
 
 for name, temp in city.items():
     avg_temp = sum(temp)/len(temp)
-    print(f'{name} : {avg_temp}')
+    print(f'{name} : {round(avg_temp,2)}도')
 
 
 
