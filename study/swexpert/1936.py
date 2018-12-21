@@ -1,4 +1,4 @@
-a b = int(input())
+a b = int(input()) 
 
 
 if a - b == 1 :
