@@ -1,4 +1,5 @@
-a b = int(input()) 
+a,b = int(input()).split()
+
 
 
 if a - b == 1 :
