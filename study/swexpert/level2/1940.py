@@ -8,11 +8,13 @@ for tc in range (1,n+1):
         car = list(map(int,input().split()))
         
         if car[0] == 0:
-            move += vel
+            move += abs(vel)
         elif car[0] == 1:
             vel += car[1]
-            move += vel
+            move += abs(vel)
         else:
             vel -= car[1]
-            move += vel
-    print(move)
+            if vel <0:
+                vel = 0
+            move += abs(vel)
+    print(f'#{tc} {move}')
