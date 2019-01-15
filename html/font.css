@@ -1,0 +1,10 @@
+.font{
+    font-size: 40px;
+    font-style: italic;
+    font-weight: 700; /* bold */
+    /* font-family: 'Times New Roman', Times, serif; */
+    font-family: 'Gugi', cursive;
+    line-height: 1.2;
+    letter-spacing: 1px;
+    text-align: center;
+}
