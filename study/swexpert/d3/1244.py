@@ -15,8 +15,7 @@ for tc in range(1,t+1):
                         temp = list(money)
                         temp[j],temp[k] = temp[k], temp[j]
                         cha_m.append(temp)
-                        kkk = set(cha_m)
-                        cha_m = list(kkk)
+                        
             else:
                 for o in range(length):
                     a=cha_m.pop(0)
@@ -26,8 +25,9 @@ for tc in range(1,t+1):
                             temp = list(a)
                             temp[j],temp[k] = temp[k], temp[j]
                             cha_m.append(temp)
-                            kkk = set(cha_m)
-                            cha_m = list(kkk)
+            for d in range(0,len(cha_m)):
+                cha_m[d] = ''.join(cha_m[d])
+            cha_m = list(set(cha_m))                    
             
 
     final = []

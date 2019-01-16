@@ -5,7 +5,7 @@ for tc in range (1,n+1):
     num_list = [2,3,5,7,11]
     count = [0,0,0,0,0]
 
-    for i in range(0,5):
+    for i in range(5):
         while num%num_list[i] == 0:
             count[i] += 1
             num /= num_list[i]
