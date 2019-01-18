@@ -1,17 +1,20 @@
 t = int(input())
 
-def calcul(n,a,b,r,c):
-    if n >= r*c:
-        return a*(r-c)+b*(n-(r*c))
-    else:
-        return a*(r-c)+b*(n-(r*(c-1)))
+def calcul(n,a,b):
+    min = 10**15
+    for c in range(1,int(n/2)+1):
+        for r in range(c,int(n/2)+1):
+            if r*c > n:
+                break
+            else:
+                if min > a*(r-c) + b * (n-(r*c)):
+                    min = a*(r-c) + b * (n-(r*c))
+    return min
+
+
+    
 
 for tc in range(1,t+1):
     n,a,b = map(int,input().split())
-
-    new_n = int(n**0.5)
-
-    r = new_n
-    c = new_n - 1
     
-    print(f'#{tc} {min(calcul(n,a,b,r,c),calcul(n,a,b,r,r),calcul(n,a,b,c+2,r))}')
+    print(f'#{tc} {calcul(n,a,b)}')
