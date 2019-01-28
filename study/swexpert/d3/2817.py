@@ -11,12 +11,18 @@ def dfs(llist, start,want,visited=None,path=None):
     paths=[]
     for i in range(start+1,len(llist)):
         if i not in visited:
+            print(llist[i])
             if sum(path) + llist[i] == want:
                 temp = path + [llist[i]]
+                # paths.extend(dfs(llist,i,want,visited,temp))
                 paths.append(tuple(temp))
+                # temp = None
+                # dfs(llist,start,want,visited,temp)
             elif sum(path) + llist[i] < want:
                 temp = path + [llist[i]]
                 paths.extend(dfs(llist,i,want,visited,temp))
+            else:
+                return paths
     return paths
 
 

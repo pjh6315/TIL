@@ -55,3 +55,8 @@ host=github.com
 
 
 
+### git  여러개 등록
+
+`git remote add <이름> <주소>`
+
+`git remote -v` :연결된 주소 확인
