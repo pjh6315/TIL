@@ -27,26 +27,37 @@ t = int(input())
     #             return paths
     # return paths
 
-def dfs(llist,start,want,result=None,temp=None):
-    if result == None:
-        result = []
-    if temp == None:
-        temp = []
+# def dfs(llist,start,want,result=None,temp=None):
+#     if result == None:
+#         result = []
+#     if temp == None:
+#         temp = []
 
-    for i in range(start,len(llist)):
-        t = sum(temp) + llist[i]
-        tttt = temp + [llist[i]]
-        if t < want :      
+#     for i in range(start,len(llist)):
+#         t = sum(temp) + llist[i]
+#         tttt = temp + [llist[i]]
+#         if t < want :      
                                                                                                                    
-            result.extend(dfs(llist,start+1,want,result,tttt))
-        elif t == want :
-            result.append(tuple(tttt))
+#             result.extend(dfs(llist,start+1,want,result,tttt))
+#         elif t == want :
+#             result.append(tuple(tttt))
+
+#     return result
+        
+def dfs (llist,current,ans,temp_list=None):
+    result=[]
+    if temp_list is None:
+        temp_list=[]
+    if current == len(llist)-1:
+        if sum(temp_list) == ans:
+            return tuple(temp_list)
+        return result
+    
+    result.extend(dfs(llist,current+1,ans,temp_list.append(llist[current])))
+
+    result.extend(dfs(llist,current+1,ans,temp_list))
 
     return result
-        
-        
-    
-
 
 
                                     
