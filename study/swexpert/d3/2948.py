@@ -1,5 +1,10 @@
 import bisect
+
 t = int(input())
+
+def binary_search(arr,x):
+    i = bisect.bisect_left(arr,x)
+    return i < len(arr) and arr[i] == x
 
 for tc in range(1,t+1):
     n,m = input().split()
@@ -10,16 +15,15 @@ for tc in range(1,t+1):
     ans = 0
     llist1.sort()
     llist2.sort()
-    if len(llist1) >= len(llist2):
-        a = llist1
-        b = llist2
-    else:
-        a = llist2
-        b = llist1
+   
 
-
-    for k in b:
-        if bisect.bisect(a,k) > 0:
-            ans += 1       
+ 
+    for s in llist1:
+        if binary_search(llist2,s):
+            ans+=1
         
+
+
+
+
     print(f'#{tc} {ans}')
