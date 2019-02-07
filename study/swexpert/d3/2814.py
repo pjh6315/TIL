@@ -38,7 +38,7 @@ for tc in range(1,t+1):
             all_paths.extend(dfs(graph,point))
         
         max_len = max(len(path) for path in all_paths )
-        
+        print(all_paths)
     print(f'#{tc} {max_len}')
     
 
