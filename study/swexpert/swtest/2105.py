@@ -1,14 +1,21 @@
 t = int(input())
 
-def dfs(p,llist,visited=None,path=None):
-    if visited is None:
-        visited = []
-    if path is None:
-        path = []
+# 1 우하 2 좌하 3 좌상 4 우상
+
+def dfs(x,y,now,llist,path=None):
     x = x+1
     y = y+1
-    visited.append((x,y))
+    paths = []
+    if path is None:
+        path = [llist[x][y]]
+        paths.extend(dfs(x+1,y+1,1,llist,path))
+    
+    if now == 1:
+        if llist[x+1][y+1] != 0:
+            dfs(x+1,y+1,1,llist,path)
+    
 
+    
 
 
 for tc in range(1,t+1):
