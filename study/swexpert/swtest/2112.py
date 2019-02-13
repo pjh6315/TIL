@@ -20,7 +20,11 @@ def check(film,d,w,k):
     return True
 
 def medi(film,now,d,w,k,cnt=0):
-    if now == d-1 :
+    a,b,c = 13,13,13
+    # if now == d-1 :
+    #     if check(film,d,w,k):
+    #         return cnt
+    if now == d:
         if check(film,d,w,k):
             return cnt
     else:
@@ -36,8 +40,9 @@ def medi(film,now,d,w,k,cnt=0):
         film[now] = [1] * w
         c = medi(film,now+1,d,w,k,cnt+1)
         film[now] = temp
-    
+
     return min(a,b,c)
+        
 
 for tc in range(1,t+1):
     d,w,k = map(int,input().split())
@@ -47,5 +52,8 @@ for tc in range(1,t+1):
     for i in range(d):
         film.append(list(map(int,input().split())))
 
+    if k == 1:
+        print(f'#{tc} 0')
+    else:
+        print(f'#{tc} {medi(film,0,d,w,k)}')
     
-    print(medi(film,0,d,w,k))
