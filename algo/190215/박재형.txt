@@ -1,0 +1,118 @@
+# swea 1208  flattern
+for tc in range(1, 11):
+    dump = int(input())
+    box = list(map(int, input().split()))
+
+    for i in range(1, dump + 1):
+        index_max = box.index(max(box))
+        index_min = box.index(min(box))
+        box[index_max] += -1
+        box[index_min] += 1
+        result = max(box) - min(box)
+        if result == 1 or 0:
+            break
+
+    print(f'#{tc} {result}')
+
+# swea 4828 min max
+t = int(input())
+
+for tc in range(1,t+1):
+    n = int(input())
+
+    number = list(map(int,input().split()))
+
+    print(f'#{tc} {max(number)-min(number)}')
+
+# swea 4831 전기버스
+t = int(input())
+
+
+for tc in range(1,t+1):
+    k,n,m = map(int,input().split())
+
+    chk = True
+
+    bus_stop = list(map(int,input().split()))
+
+    for index in range(m):
+        if index == 0 and bus_stop[index] > k:
+            chk = False
+        else:
+            if bus_stop[index] - bus_stop[index-1] > k :
+                chk = False
+
+
+    if chk == False:
+        print(f'#{tc} 0')
+    else:
+        max_move = k
+        result = 0
+        for index in range(len(bus_stop)):
+            if bus_stop[index] > max_move:
+                result += 1
+                max_move = bus_stop[index-1] + k
+
+        if max_move < n :
+            result +=1
+
+        print(f'#{tc} {result}')
+
+
+# swea 4834 숫자카드
+t = int(input())
+
+for tc in range(1,t+1):
+    n = int(input())
+
+    number = input()
+    counts = [0] * 10
+
+    for n in number:
+        counts[int(n)] +=1
+
+    max = counts[0]
+    max_index = 0
+    for index in range(10):
+        if max <= counts[index]:
+            max = counts[index]
+            max_index = index
+
+    print(f'#{tc} {max_index} {max}')
+
+# swea 4835 구간합
+t = int(input())
+
+for tc in range(1,t+1):
+    n, m = map(int,input().split())
+
+    number = list(map(int,input().split()))
+
+    temp_sum = []
+
+
+    for index in range(len(number)-m+1):
+        temp = 0
+        for index2 in range(index,index+m):
+            temp += number[index2]
+        temp_sum.append(temp)
+
+
+    print(f'#{tc} {max(temp_sum)-min(temp_sum)}')
+
+#swea 1206 view
+for tc in range(1, 11):
+    num = int(input())
+    building = list(map(int, input().split()))
+    count = 0
+
+    for i in range(2, num - 2):
+        if building[i] - building[i - 1] >= 1 and building[i] - building[i - 2] >= 1 and building[i] - building[
+            i + 1] >= 1 and building[i] - building[i + 2] >= 1:
+            temp = [building[i] - building[i - 1], building[i] - building[i - 2], building[i] - building[i + 1],
+                    building[i] - building[i + 2]]
+            count += min(temp)
+    print(f'#{tc} {count}')
+
+
+

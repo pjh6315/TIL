@@ -4,7 +4,7 @@ data = list(map(int,input().split()))
 
 def baby_gen(number):
 
-    counts = [0] * 10
+    counts = [0] * 12
     run = 0
     triplet = 0
 
@@ -12,16 +12,28 @@ def baby_gen(number):
         counts[n] += 1
 
 
-    for i in range(len(counts)):
+    for i in range(10):
         if counts[i] >= 3:
             counts[i] -= 3
             triplet += 1
+
+            if counts[i] >= 3:
+                counts[i] -= 3
+                triplet += 1
 
         if counts[i] >= 1 and counts[i+1] >=1 and counts[i+2] >=1 :
             counts[i] -= 1
             counts[i+1] -= 1
             counts[i+2] -= 1
             run += 1
+
+            if counts[i] >= 1 and counts[i + 1] >= 1 and counts[i + 2] >= 1:
+                counts[i] -= 1
+                counts[i + 1] -= 1
+                counts[i + 2] -= 1
+                run += 1
+
+
 
     if triplet + run == 2:
         return True
