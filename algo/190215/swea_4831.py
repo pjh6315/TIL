@@ -18,6 +18,7 @@ for tc in range(1,t+1):
 
     if chk == False:
         print(f'#{tc} 0')
+
     else:
         max_move = k
         result = 0

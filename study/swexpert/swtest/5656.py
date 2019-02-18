@@ -34,7 +34,11 @@ def reset(brick,width,height):
 
 
 def bomb(now,cnt,brick,width,height,n):
+    for i in brick:
+        print(i)
+    print('===================================')
     t_brick = brick[:]
+    a=b=12*15
     if cnt == n:
         brick_cnt=0
         for i in range(height):
@@ -42,16 +46,18 @@ def bomb(now,cnt,brick,width,height,n):
                 if brick[i][j] != 0 :
                     brick_cnt += 1
         return brick_cnt
-    else:
+    elif now != width-1:
         for i in range(height):
             if brick[i][now] != 0:
-                destroy(i,now,brick[i][now],brick,width,height)
                 break
         # 같은자리
-        bomb(now,cnt+1,brick,width,height,n)
+        destroy(i,now,t_brick[i][now],t_brick,width,height)
+        reset(t_brick,width,height)
+        a = bomb(now,cnt+1,t_brick,width,height,n)
         # 다음자리
-        bomb(now,cnt+1,brick,width,height,n)
 
+        b = bomb(now+1,cnt,brick,width,height,n)
+    return min(a,b)
         
 
     
@@ -63,21 +69,21 @@ for tc in range(1,t+1):
     for i in range(w):
         brick.append(list(map(int,input().split())))
 
-    for i in brick:
-        print(i)
-    print('=================================')
-    destroy(1,2,1,brick,w,h)
-    reset(brick,w,h)
-    for i in brick:
-        print(i)
-    print('=================================')
-    destroy(2,2,3,brick,w,h)
-    reset(brick,w,h)
-    for i in brick:
-        print(i)
-    print('=================================')
-    destroy(8,6,2,brick,w,h)
-    reset(brick,w,h)
-    for i in brick:
-        print(i)
-    
+    # for i in brick:
+    #     print(i)
+    # print('=================================')
+    # destroy(1,2,1,brick,w,h)
+    # reset(brick,w,h)
+    # for i in brick:
+    #     print(i)
+    # print('=================================')
+    # destroy(2,2,3,brick,w,h)
+    # reset(brick,w,h)
+    # for i in brick:
+    #     print(i)
+    # print('=================================')
+    # destroy(8,6,2,brick,w,h)
+    # reset(brick,w,h)
+    # for i in brick:
+    #     print(i)
+    print(bomb(0,0,brick,w,h,n))
