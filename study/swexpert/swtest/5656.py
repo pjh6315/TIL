@@ -1,4 +1,5 @@
 t = int(input())
+ans = []
 
 def destroy(i,j,num,brick,width,height):
     des_queue=[]
@@ -17,8 +18,7 @@ def destroy(i,j,num,brick,width,height):
     for gu in des_queue:
         destroy(gu[0],gu[1],brick[gu[0]][gu[1]],brick,width,height)
 
-    return brick
-
+    
 def reset(brick,width,height):
     for i in range(width):
         temp = []
@@ -34,9 +34,6 @@ def reset(brick,width,height):
 
 
 def bomb(now,cnt,brick,width,height,n):
-    for i in brick:
-        print(i)
-    print('===================================')
     t_brick = brick[:]
     a=b=12*15
     if cnt == n:
@@ -45,20 +42,19 @@ def bomb(now,cnt,brick,width,height,n):
             for j in range(width):
                 if brick[i][j] != 0 :
                     brick_cnt += 1
-        return brick_cnt
-    elif now != width-1:
+        ans.append(brick_cnt)
+    elif now != width:
         for i in range(height):
             if brick[i][now] != 0:
                 break
         # 같은자리
         destroy(i,now,t_brick[i][now],t_brick,width,height)
         reset(t_brick,width,height)
-        a = bomb(now,cnt+1,t_brick,width,height,n)
+        bomb(now,cnt+1,t_brick,width,height,n)
         # 다음자리
+        bomb(now+1,cnt,brick,width,height,n)
+    
 
-        b = bomb(now+1,cnt,brick,width,height,n)
-    return min(a,b)
-        
 
     
 for tc in range(1,t+1):
@@ -86,4 +82,6 @@ for tc in range(1,t+1):
     # reset(brick,w,h)
     # for i in brick:
     #     print(i)
-    print(bomb(0,0,brick,w,h,n))
+
+    bomb(0,0,brick,w,h,n)
+    print(ans)
