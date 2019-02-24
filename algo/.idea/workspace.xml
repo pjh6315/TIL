@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b44a0dde-8e35-4e74-9e16-eb9f67e532f2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/algo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/algo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/190220/4_ex3.py" beforeDir="false" afterPath="$PROJECT_DIR$/190220/4_ex3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/190220/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/190220/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/190221/1_swea_4869.py" beforeDir="false" afterPath="$PROJECT_DIR$/190221/1_swea_4869.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/190221/5_swea_1267.py" beforeDir="false" afterPath="$PROJECT_DIR$/190221/5_swea_1267.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,22 +15,27 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/algo$my_1_swea5656.coverage" NAME="my_1_swea5656 Coverage Results" MODIFIED="1550818762406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190222" />
     <SUITE FILE_PATH="coverage/algo$4_ex3.coverage" NAME="4_ex3 Coverage Results" MODIFIED="1550646014484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190220" />
     <SUITE FILE_PATH="coverage/algo$2_swea_4837.coverage" NAME="2_swea_4837 Coverage Results" MODIFIED="1550556918293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190219" />
     <SUITE FILE_PATH="coverage/algo$6_swea1210_recur.coverage" NAME="6_swea1210 recur Coverage Results" MODIFIED="1550709529398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190220" />
+    <SUITE FILE_PATH="coverage/algo$ssss.coverage" NAME="ssss Coverage Results" MODIFIED="1550796614542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190221" />
     <SUITE FILE_PATH="coverage/algo$5_swea1210.coverage" NAME="5_swea1210 Coverage Results" MODIFIED="1550649161844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190220" />
     <SUITE FILE_PATH="coverage/algo$ex3_bubble_sort.coverage" NAME="ex3_bubble_sort Coverage Results" MODIFIED="1550125264612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190214" />
     <SUITE FILE_PATH="coverage/algo$6_swea_1209.coverage" NAME="6_swea_1209 Coverage Results" MODIFIED="1550476000636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190218" />
+    <SUITE FILE_PATH="coverage/algo$2_ex1.coverage" NAME="2_ex1 Coverage Results" MODIFIED="1550798162909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190222" />
     <SUITE FILE_PATH="coverage/algo$swea_4835.coverage" NAME="swea_4835 Coverage Results" MODIFIED="1550193885988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190215" />
     <SUITE FILE_PATH="coverage/algo$1.coverage" NAME="1 Coverage Results" MODIFIED="1550110613954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190214" />
-    <SUITE FILE_PATH="coverage/algo$1_swea_4869.coverage" NAME="1_swea_4869 Coverage Results" MODIFIED="1550712931140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190221" />
-    <SUITE FILE_PATH="coverage/algo$5_swea_1267.coverage" NAME="5_swea_1267 Coverage Results" MODIFIED="1550736942670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190221" />
+    <SUITE FILE_PATH="coverage/algo$1_swea_4869.coverage" NAME="1_swea_4869 Coverage Results" MODIFIED="1550795363823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190221" />
+    <SUITE FILE_PATH="coverage/algo$5_swea_1267.coverage" NAME="5_swea_1267 Coverage Results" MODIFIED="1550798053634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190221" />
     <SUITE FILE_PATH="coverage/algo$5_ex3.coverage" NAME="5_ex3 Coverage Results" MODIFIED="1550475808653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190218" />
     <SUITE FILE_PATH="coverage/algo$4_swea_4843.coverage" NAME="4_swea_4843 Coverage Results" MODIFIED="1550545551245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190219" />
     <SUITE FILE_PATH="coverage/algo$1_ex1.coverage" NAME="1_ex1 Coverage Results" MODIFIED="1550622778469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190220" />
+    <SUITE FILE_PATH="coverage/algo$4_swea_4875.coverage" NAME="4_swea_4875 Coverage Results" MODIFIED="1550810525022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190222" />
     <SUITE FILE_PATH="coverage/algo$2_swea_4866.coverage" NAME="2_swea_4866 Coverage Results" MODIFIED="1550713136761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190221" />
     <SUITE FILE_PATH="coverage/algo$ex4_countsort.coverage" NAME="ex4_countsort Coverage Results" MODIFIED="1550129868693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190214" />
     <SUITE FILE_PATH="coverage/algo$swea_1206.coverage" NAME="swea_1206 Coverage Results" MODIFIED="1550130008406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190214" />
+    <SUITE FILE_PATH="coverage/algo$1_swea_1224.coverage" NAME="1_swea_1224 Coverage Results" MODIFIED="1550817723776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190222" />
     <SUITE FILE_PATH="coverage/algo$ex5_babygen.coverage" NAME="ex5_babygen Coverage Results" MODIFIED="1550190822286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190214" />
     <SUITE FILE_PATH="coverage/algo$ex1.coverage" NAME="ex1 Coverage Results" MODIFIED="1550115047877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190214" />
     <SUITE FILE_PATH="coverage/algo$3_swea_4839.coverage" NAME="3_swea_4839 Coverage Results" MODIFIED="1550543095543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190219" />
@@ -47,88 +49,47 @@
     <SUITE FILE_PATH="coverage/algo$swea_4834.coverage" NAME="swea_4834 Coverage Results" MODIFIED="1550193239335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190215" />
     <SUITE FILE_PATH="coverage/algo$5_swea_1259.coverage" NAME="5_swea_1259 Coverage Results" MODIFIED="1550556189720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190219" />
     <SUITE FILE_PATH="coverage/algo$swea_1208.coverage" NAME="swea_1208 Coverage Results" MODIFIED="1550191503486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190215" />
+    <SUITE FILE_PATH="coverage/algo$3_swea_4874.coverage" NAME="3_swea_4874 Coverage Results" MODIFIED="1550808558545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190222" />
     <SUITE FILE_PATH="coverage/algo$2_ex2.coverage" NAME="2_ex2 Coverage Results" MODIFIED="1550639477658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190220" />
     <SUITE FILE_PATH="coverage/algo$3_search.coverage" NAME="3_search Coverage Results" MODIFIED="1550470622699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190218" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/190221/1_swea_4869.py">
+        <entry file="file://$PROJECT_DIR$/190222/4_swea_4875.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+            <state relative-caret-position="660">
+              <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/190221/2_swea_4866.py">
+        <entry file="file://$PROJECT_DIR$/190222/3_swea_4874.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="1" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/190220/3_up.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/190220/4_ex3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="4" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/190221/6_dfs.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="433">
-              <caret line="57" column="16" lean-forward="true" selection-start-line="57" selection-start-column="16" selection-end-line="57" selection-end-column="16" />
+            <state relative-caret-position="345">
+              <caret line="23" column="26" lean-forward="true" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/190221/5_swea_1267.py">
+        <entry file="file://$PROJECT_DIR$/190222/my_1_swea5656.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="70">
-              <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+            <state relative-caret-position="156">
+              <caret line="60" selection-start-line="60" selection-end-line="60" />
+              <folding>
+                <element signature="e#0#6#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/190221/3_swea_4871.py">
+        <entry file="file://$PROJECT_DIR$/190222/input.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/190221/4_swea_4873.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/190221/input.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="16" column="8" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+            <state relative-caret-position="165">
+              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -153,13 +114,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/190214/input.txt" />
-        <option value="$PROJECT_DIR$/190214/1.py" />
-        <option value="$PROJECT_DIR$/190214/ex1_input.txt" />
-        <option value="$PROJECT_DIR$/190214/ex1.py" />
-        <option value="$PROJECT_DIR$/190214/ex1_gravity.py" />
-        <option value="$PROJECT_DIR$/190214/ex2_input.txt" />
-        <option value="$PROJECT_DIR$/190214/ex2_next_permutation.py" />
         <option value="$PROJECT_DIR$/190214/ex3_bubble_sort.py" />
         <option value="$PROJECT_DIR$/190214/dddddd.py" />
         <option value="$PROJECT_DIR$/190214/ex4_counting_sort.py" />
@@ -190,7 +144,6 @@
         <option value="$PROJECT_DIR$/190220/3_up.py" />
         <option value="$PROJECT_DIR$/190220/5_swea1210.py" />
         <option value="$PROJECT_DIR$/190220/6_swea1210 recur.py" />
-        <option value="$PROJECT_DIR$/190221/1_swea_4869.py" />
         <option value="$PROJECT_DIR$/190221/2_swea_4866.py" />
         <option value="$PROJECT_DIR$/190221/4_swea_4873.py" />
         <option value="$PROJECT_DIR$/190221/3_swea_4871.py" />
@@ -198,13 +151,26 @@
         <option value="$PROJECT_DIR$/190220/4_ex3.py" />
         <option value="$PROJECT_DIR$/190221/6_dfs.py" />
         <option value="$PROJECT_DIR$/190221/input.txt" />
+        <option value="$PROJECT_DIR$/190221/1_swea_4869.py" />
+        <option value="$PROJECT_DIR$/190221/ssss.py" />
         <option value="$PROJECT_DIR$/190221/5_swea_1267.py" />
+        <option value="$PROJECT_DIR$/190221/1_swea_1224.py" />
+        <option value="$PROJECT_DIR$/190222/ex1.txt" />
+        <option value="$PROJECT_DIR$/190222/2_ex1.py" />
+        <option value="$PROJECT_DIR$/190222/input_1224.txt" />
+        <option value="$PROJECT_DIR$/190222/3_swea_4874.py" />
+        <option value="$PROJECT_DIR$/190222/input_4874.txt" />
+        <option value="$PROJECT_DIR$/190222/input_4875.txt" />
+        <option value="$PROJECT_DIR$/190222/4_swea_4875.py" />
+        <option value="$PROJECT_DIR$/190222/1_swea_1224.py" />
+        <option value="$PROJECT_DIR$/190222/my_1_swea5656.py" />
+        <option value="$PROJECT_DIR$/190222/input.txt" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="919" />
-    <option name="width" value="1008" />
+    <option name="x" value="953" />
+    <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -215,6 +181,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -225,18 +192,17 @@
             <path>
               <item name="algo" type="b2602c69:ProjectViewProjectNode" />
               <item name="algo" type="462c0819:PsiDirectoryNode" />
-              <item name="190220" type="462c0819:PsiDirectoryNode" />
+              <item name="190221" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algo" type="b2602c69:ProjectViewProjectNode" />
               <item name="algo" type="462c0819:PsiDirectoryNode" />
-              <item name="190221" type="462c0819:PsiDirectoryNode" />
+              <item name="190222" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -248,6 +214,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\student\pjh\algo\190222" />
       <recent name="C:\Users\student\pjh\algo\190214" />
     </key>
   </component>
@@ -263,8 +230,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.5_swea_1267">
-    <configuration name="1_swea_4869" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.my_1_swea5656">
+    <configuration name="1_swea_1224" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -272,12 +239,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/190221" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/190222" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/190221/1_swea_4869.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/190222/1_swea_1224.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -286,7 +253,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2_swea_4866" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2_ex1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -294,12 +261,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/190221" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/190222" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/190221/2_swea_4866.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/190222/2_ex1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -308,7 +275,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3_swea_4871" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="3_swea_4874" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -316,12 +283,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/190221" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/190222" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/190221/3_swea_4871.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/190222/3_swea_4874.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -330,7 +297,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4_swea_4873" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="4_swea_4875" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -338,12 +305,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/190221" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/190222" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/190221/4_swea_4873.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/190222/4_swea_4875.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -352,7 +319,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5_swea_1267" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="my_1_swea5656" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -360,12 +327,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/190221" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/190222" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/190221/5_swea_1267.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/190222/my_1_swea5656.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -376,11 +343,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.5_swea_1267" />
-        <item itemvalue="Python.3_swea_4871" />
-        <item itemvalue="Python.4_swea_4873" />
-        <item itemvalue="Python.2_swea_4866" />
-        <item itemvalue="Python.1_swea_4869" />
+        <item itemvalue="Python.my_1_swea5656" />
+        <item itemvalue="Python.1_swea_1224" />
+        <item itemvalue="Python.4_swea_4875" />
+        <item itemvalue="Python.3_swea_4874" />
+        <item itemvalue="Python.2_ex1" />
       </list>
     </recent_temporary>
   </component>
@@ -401,22 +368,23 @@
       <workItem from="1550534486851" duration="20352000" />
       <workItem from="1550621149892" duration="15652000" />
       <workItem from="1550708109852" duration="24530000" />
+      <workItem from="1550793045027" duration="21368000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="107421000" />
+    <option name="totallyTimeSpent" value="128789000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="919" y="0" width="1008" height="1047" extended-state="0" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18459916" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19584244" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32968238" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.31763417" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3844469" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31982476" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.43263966" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -432,65 +400,22 @@
       <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="right" id="Database" order="4" />
     </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20021881" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32968238" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31763417" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3844469" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32968238" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/190222/my_1_swea5656.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/190214/ex1.py" />
-    <entry file="file://$PROJECT_DIR$/190214/dddddd.py" />
-    <entry file="file://$PROJECT_DIR$/190214/ex4_counting_sort.py" />
-    <entry file="file://$PROJECT_DIR$/190214/ex1_gravity.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="4" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/190214/ex2_next_permutation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/190214/ex3_bubble_sort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/190214/ex2_input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="7" selection-start-column="7" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/190214/ex1_input.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -688,13 +613,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/190220/3_up.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/190220/input.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -702,59 +620,153 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/190220/4_ex3.py">
+    <entry file="file://$PROJECT_DIR$/190221/2_swea_4866.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="4" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/190221/3_swea_4871.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="378">
+          <caret line="27" column="16" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/190221/1_swea_4869.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/190221/2_swea_4866.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/190221/6_dfs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
-          <caret line="57" column="16" lean-forward="true" selection-start-line="57" selection-start-column="16" selection-end-line="57" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/190221/4_swea_4873.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+        <state relative-caret-position="210">
+          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/190221/input.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
-          <caret line="16" column="8" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/190220/3_up.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/190221/4_swea_4873.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/190221/3_swea_4871.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/190220/4_ex3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="9" selection-start-line="9" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/190221/ssss.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/190221/6_dfs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="57" column="16" selection-start-line="57" selection-start-column="16" selection-end-line="57" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/190221/5_swea_1267.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/190222/ex1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14">
+          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/190222/input_4874.txt">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="70">
-          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/190222/2_ex1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/190222/4_swea_4875.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/190222/1_swea_1224.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="24" lean-forward="true" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/190222/input_1224.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/190222/input_4875.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/190222/3_swea_4874.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="26" lean-forward="true" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/190222/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="326" column="20" lean-forward="true" selection-start-line="326" selection-start-column="20" selection-end-line="326" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/190222/my_1_swea5656.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+          <folding>
+            <element signature="e#0#6#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

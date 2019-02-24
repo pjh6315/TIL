@@ -1,3 +1,6 @@
+import sys
+sys.stdin = open("input.txt")
+
 t = int(input())
 ans = []
 
@@ -8,7 +11,7 @@ def destroy(i,j,num,brick,width,height):
     for k in range(1,num):
         if i-k >= 0:
             des_queue.append((i-k,j))
-        if j-k >=0:
+        if j-k >= 0:
             des_queue.append((i,j-k))
         if j+k <= width-1:
             des_queue.append((i,j+k))
@@ -65,23 +68,23 @@ for tc in range(1,t+1):
     for i in range(w):
         brick.append(list(map(int,input().split())))
 
-    # for i in brick:
-    #     print(i)
-    # print('=================================')
-    # destroy(1,2,1,brick,w,h)
-    # reset(brick,w,h)
-    # for i in brick:
-    #     print(i)
-    # print('=================================')
-    # destroy(2,2,3,brick,w,h)
-    # reset(brick,w,h)
-    # for i in brick:
-    #     print(i)
-    # print('=================================')
-    # destroy(8,6,2,brick,w,h)
-    # reset(brick,w,h)
-    # for i in brick:
-    #     print(i)
+    for i in brick:
+        print(i)
+    print('=================================')
+    destroy(1,2,1,brick,w,h)
+    reset(brick,w,h)
+    for i in brick:
+        print(i)
+    print('=================================')
+    destroy(2,2,3,brick,w,h)
+    reset(brick,w,h)
+    for i in brick:
+        print(i)
+    print('=================================')
+    destroy(8,6,2,brick,w,h)
+    reset(brick,w,h)
+    for i in brick:
+        print(i)
 
     bomb(0,0,brick,w,h,n)
-    print(ans)
+    # print(ans)
