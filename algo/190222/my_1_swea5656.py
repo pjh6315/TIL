@@ -64,36 +64,12 @@ def bomb(now, cnt, brick, width, height, n):
 
 
 
-
-
-
-# t_brick = brick[:]
-# a=b=12*15
-# if cnt == n:
-#     brick_cnt=0
-#     for i in range(height):
-#         for j in range(width):
-#             if brick[i][j] != 0 :
-#                 brick_cnt += 1
-#     ans.append(brick_cnt)
-# elif now != width:
-#     for i in range(height):
-#         if brick[i][now] != 0:
-#             break
-#     # 같은자리
-#     destroy(i,now,t_brick[i][now],t_brick,width,height)
-#     reset(t_brick,width,height)
-#     bomb(now,cnt+1,t_brick,width,height,n)
-#     # 다음자리
-#     bomb(now+1,cnt,brick,width,height,n)
-
-
 for tc in range(1, t + 1):
 	n, w, h = map(int, input().split())
-
+	ans = []
 	brick = []
 
-	for i in range(w):
+	for i in range(h):
 		brick.append(list(map(int, input().split())))
 	# for i in brick:
 	# 	print(i)
@@ -116,4 +92,7 @@ for tc in range(1, t + 1):
 
 
 	bomb(0, 0, brick, w, h, n)
+
 	print(f'#{tc} {min(ans)}')
+	print(ans)
+	print(len(ans))
