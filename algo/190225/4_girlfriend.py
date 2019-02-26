@@ -4,10 +4,13 @@ sys.stdin = open("girl.txt")
 
 result = 987654321
 
+flag = False
+
 def dfs(now,end,now_cost):
-	global result
+	global result,flag
 	visited[now] = 1
 	if now == end:
+		flag = True
 		if result > now_cost:
 			result = now_cost
 		return
@@ -34,4 +37,7 @@ for i in range(m):
 
 dfs(1,7,0)
 
-print(result)
+if flag == False:
+	print(-1)
+else:
+	print(result)

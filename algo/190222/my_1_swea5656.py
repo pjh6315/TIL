@@ -40,6 +40,7 @@ def reset(brick, width, height):
 
 
 def bomb(now, cnt, brick, width, height, n):
+
 	t_y=t_x=0
 	if cnt == n :
 		brick_cnt = 0
@@ -55,11 +56,16 @@ def bomb(now, cnt, brick, width, height, n):
 				t_y = y
 				t_x = now
 				break
-		bomb(now+1,cnt,brick,width,height,n)
-		temp = copy.deepcopy(brick)
-		destroy(t_y,t_x,temp[t_y][t_x],temp,width,height)
-		reset(temp,width,height)
-		bomb(now,cnt+1,temp,width,height,n)
+		if brick[t_y][t_x] == 0 :
+			bomb(now + 1, cnt, brick, width, height, n)
+		else:
+			bomb(now+1,cnt,brick,width,height,n)
+
+			temp = copy.deepcopy(brick)
+			destroy(t_y,t_x,temp[t_y][t_x],temp,width,height)
+			reset(temp,width,height)
+
+			bomb(now,cnt+1,temp,width,height,n)
 
 
 
@@ -71,15 +77,16 @@ for tc in range(1, t + 1):
 
 	for i in range(h):
 		brick.append(list(map(int, input().split())))
+
 	# for i in brick:
 	# 	print(i)
 	# print('=================================')
-	# destroy(1, 2, 1, brick, w, h)
+	# destroy(4, 5, 6, brick, w, h)
 	# reset(brick, w, h)
 	# for i in brick:
 	# 	print(i)
 	# print('=================================')
-	# destroy(2, 2, 3, brick, w, h)
+	# destroy(6, 3, 9, brick, w, h)
 	# reset(brick, w, h)
 	# for i in brick:
 	# 	print(i)

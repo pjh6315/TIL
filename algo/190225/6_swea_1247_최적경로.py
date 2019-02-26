@@ -7,8 +7,8 @@ t= int(input())
 
 
 def dfs(now,end,dis,cnt):
-	global result
-	if cnt == 5:
+	global result,n
+	if cnt == n:
 		move = abs(now[0]-end[0]) + abs(now[1] - end[1])
 		dis += move
 		if result > dis:
@@ -17,7 +17,9 @@ def dfs(now,end,dis,cnt):
 		for p in range(1,len(point)):
 			if visited[p] == 0 and dis < result:
 				move = abs(now[0]-point[p][0]) + abs(now[1] - point[p][1])
+				visited[p] = 1
 				dfs(point[p],end,dis+move,cnt+1)
+				visited[p] = 0
 
 
 
