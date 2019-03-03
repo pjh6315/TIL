@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b44a0dde-8e35-4e74-9e16-eb9f67e532f2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/190222/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/190222/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/190222/my_1_swea5656.py" beforeDir="false" afterPath="$PROJECT_DIR$/190222/my_1_swea5656.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/190225/4_girlfriend.py" beforeDir="false" afterPath="$PROJECT_DIR$/190225/4_girlfriend.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/190225/6_swea_1247_최적경로.py" beforeDir="false" afterPath="$PROJECT_DIR$/190225/6_swea_1247_최적경로.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/190225/girl.txt" beforeDir="false" afterPath="$PROJECT_DIR$/190225/girl.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/algo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/algo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,122 +16,85 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/algo$my_1_swea5656.coverage" NAME="my_1_swea5656 Coverage Results" MODIFIED="1551151609851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190222" />
-    <SUITE FILE_PATH="coverage/algo$4_ex3.coverage" NAME="4_ex3 Coverage Results" MODIFIED="1550646014484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190220" />
-    <SUITE FILE_PATH="coverage/algo$2_swea_4837.coverage" NAME="2_swea_4837 Coverage Results" MODIFIED="1550556918293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190219" />
-    <SUITE FILE_PATH="coverage/algo$6_swea1210_recur.coverage" NAME="6_swea1210 recur Coverage Results" MODIFIED="1550709529398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190220" />
-    <SUITE FILE_PATH="coverage/algo$ssss.coverage" NAME="ssss Coverage Results" MODIFIED="1550796614542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190221" />
-    <SUITE FILE_PATH="coverage/algo$6_swea_1209.coverage" NAME="6_swea_1209 Coverage Results" MODIFIED="1550476000636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190218" />
-    <SUITE FILE_PATH="coverage/algo$7_swea_1220_magnetic.coverage" NAME="7_swea_1220_magnetic Coverage Results" MODIFIED="1551139536024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190225" />
-    <SUITE FILE_PATH="coverage/algo$1.coverage" NAME="1 Coverage Results" MODIFIED="1550110613954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190214" />
-    <SUITE FILE_PATH="coverage/algo$1_swea_4869.coverage" NAME="1_swea_4869 Coverage Results" MODIFIED="1550795363823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190221" />
-    <SUITE FILE_PATH="coverage/algo$4_swea_4843.coverage" NAME="4_swea_4843 Coverage Results" MODIFIED="1550545551245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190219" />
-    <SUITE FILE_PATH="coverage/algo$1_ex1.coverage" NAME="1_ex1 Coverage Results" MODIFIED="1551144141467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190226" />
-    <SUITE FILE_PATH="coverage/algo$ex4_countsort.coverage" NAME="ex4_countsort Coverage Results" MODIFIED="1550129868693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190214" />
-    <SUITE FILE_PATH="coverage/algo$swea_1206.coverage" NAME="swea_1206 Coverage Results" MODIFIED="1550130008406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190214" />
-    <SUITE FILE_PATH="coverage/algo$1_swea_1224.coverage" NAME="1_swea_1224 Coverage Results" MODIFIED="1550817723776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190222" />
-    <SUITE FILE_PATH="coverage/algo$2_swea_4881_.coverage" NAME="2_swea_4881_배열최소합 Coverage Results" MODIFIED="1551064570342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190225" />
-    <SUITE FILE_PATH="coverage/algo$swea_5097_.coverage" NAME="swea_5097_회전 Coverage Results" MODIFIED="1551156197325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190226" />
-    <SUITE FILE_PATH="coverage/algo$4_swea_4875_mirobfs.coverage" NAME="4_swea_4875_mirobfs Coverage Results" MODIFIED="1551150969027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190226" />
-    <SUITE FILE_PATH="coverage/algo$1_swea_4836.coverage" NAME="1_swea_4836 Coverage Results" MODIFIED="1550535940439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190219" />
-    <SUITE FILE_PATH="coverage/algo$3_swea_4871.coverage" NAME="3_swea_4871 Coverage Results" MODIFIED="1550727317866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190221" />
-    <SUITE FILE_PATH="coverage/algo$swea_4834.coverage" NAME="swea_4834 Coverage Results" MODIFIED="1550193239335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190215" />
-    <SUITE FILE_PATH="coverage/algo$5_swea_1259.coverage" NAME="5_swea_1259 Coverage Results" MODIFIED="1550556189720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190219" />
-    <SUITE FILE_PATH="coverage/algo$2_ex2.coverage" NAME="2_ex2 Coverage Results" MODIFIED="1551145968253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190226" />
-    <SUITE FILE_PATH="coverage/algo$6_swea_1247_.coverage" NAME="6_swea_1247_최적경로 Coverage Results" MODIFIED="1551140462779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190225" />
     <SUITE FILE_PATH="coverage/algo$swea_5099_pizza.coverage" NAME="swea_5099_pizza Coverage Results" MODIFIED="1551166403189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190226" />
-    <SUITE FILE_PATH="coverage/algo$3_swea_4880_.coverage" NAME="3_swea_4880_토너먼트 Coverage Results" MODIFIED="1551078199545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190225" />
+    <SUITE FILE_PATH="coverage/algo$my_1_swea5656.coverage" NAME="my_1_swea5656 Coverage Results" MODIFIED="1551151609851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190222" />
+    <SUITE FILE_PATH="coverage/algo$4_girlfriend.coverage" NAME="4_girlfriend Coverage Results" MODIFIED="1551141150355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190225" />
+    <SUITE FILE_PATH="coverage/algo$swea_4831.coverage" NAME="swea_4831 Coverage Results" MODIFIED="1550206375315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190215" />
+    <SUITE FILE_PATH="coverage/algo$ex1.coverage" NAME="ex1 Coverage Results" MODIFIED="1550115047877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190214" />
+    <SUITE FILE_PATH="coverage/algo$3_swea_4871.coverage" NAME="3_swea_4871 Coverage Results" MODIFIED="1550727317866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190221" />
+    <SUITE FILE_PATH="coverage/algo$swea_5102_.coverage" NAME="swea_5102_노드거리 Coverage Results" MODIFIED="1551600626022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190226" />
     <SUITE FILE_PATH="coverage/algo$3_ex3_queue.coverage" NAME="3_ex3_queue Coverage Results" MODIFIED="1551149747493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190226" />
     <SUITE FILE_PATH="coverage/algo$5_swea1210.coverage" NAME="5_swea1210 Coverage Results" MODIFIED="1550649161844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190220" />
-    <SUITE FILE_PATH="coverage/algo$swea_5102_.coverage" NAME="swea_5102_노드거리 Coverage Results" MODIFIED="1551168481803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190226" />
-    <SUITE FILE_PATH="coverage/algo$ex3_bubble_sort.coverage" NAME="ex3_bubble_sort Coverage Results" MODIFIED="1550125264612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190214" />
-    <SUITE FILE_PATH="coverage/algo$2_ex1.coverage" NAME="2_ex1 Coverage Results" MODIFIED="1550798162909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190222" />
-    <SUITE FILE_PATH="coverage/algo$swea_4835.coverage" NAME="swea_4835 Coverage Results" MODIFIED="1550193885988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190215" />
-    <SUITE FILE_PATH="coverage/algo$5_swea_1267.coverage" NAME="5_swea_1267 Coverage Results" MODIFIED="1550798053634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190221" />
+    <SUITE FILE_PATH="coverage/algo$2_ex2.coverage" NAME="2_ex2 Coverage Results" MODIFIED="1551145968253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190226" />
     <SUITE FILE_PATH="coverage/algo$5_ex3.coverage" NAME="5_ex3 Coverage Results" MODIFIED="1550475808653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190218" />
-    <SUITE FILE_PATH="coverage/algo$4_swea_4875.coverage" NAME="4_swea_4875 Coverage Results" MODIFIED="1550810525022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190222" />
-    <SUITE FILE_PATH="coverage/algo$2_swea_4866.coverage" NAME="2_swea_4866 Coverage Results" MODIFIED="1550713136761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190221" />
-    <SUITE FILE_PATH="coverage/algo$ex5_babygen.coverage" NAME="ex5_babygen Coverage Results" MODIFIED="1550190822286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190214" />
-    <SUITE FILE_PATH="coverage/algo$ex1.coverage" NAME="ex1 Coverage Results" MODIFIED="1550115047877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190214" />
-    <SUITE FILE_PATH="coverage/algo$3_swea_4839.coverage" NAME="3_swea_4839 Coverage Results" MODIFIED="1550543095543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190219" />
-    <SUITE FILE_PATH="coverage/algo$ex2_next_permutation.coverage" NAME="ex2_next_permutation Coverage Results" MODIFIED="1550122312249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190214" />
-    <SUITE FILE_PATH="coverage/algo$4_selectionsort.coverage" NAME="4_selectionsort Coverage Results" MODIFIED="1550473713314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190218" />
-    <SUITE FILE_PATH="coverage/algo$4_swea_4873.coverage" NAME="4_swea_4873 Coverage Results" MODIFIED="1550727291801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190221" />
     <SUITE FILE_PATH="coverage/algo$3_up.coverage" NAME="3_up Coverage Results" MODIFIED="1550639635498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190220" />
-    <SUITE FILE_PATH="coverage/algo$swea_4831.coverage" NAME="swea_4831 Coverage Results" MODIFIED="1550206375315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190215" />
-    <SUITE FILE_PATH="coverage/algo$swea_1208.coverage" NAME="swea_1208 Coverage Results" MODIFIED="1550191503486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190215" />
-    <SUITE FILE_PATH="coverage/algo$4_girlfriend.coverage" NAME="4_girlfriend Coverage Results" MODIFIED="1551141150355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190225" />
-    <SUITE FILE_PATH="coverage/algo$3_swea_4874.coverage" NAME="3_swea_4874 Coverage Results" MODIFIED="1550808558545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190222" />
-    <SUITE FILE_PATH="coverage/algo$5_powerset.coverage" NAME="5_powerset Coverage Results" MODIFIED="1551083944806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190225" />
+    <SUITE FILE_PATH="coverage/algo$ex3_bubble_sort.coverage" NAME="ex3_bubble_sort Coverage Results" MODIFIED="1550125264612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190214" />
+    <SUITE FILE_PATH="coverage/algo$2_swea_4866.coverage" NAME="2_swea_4866 Coverage Results" MODIFIED="1550713136761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190221" />
     <SUITE FILE_PATH="coverage/algo$swea_5105_.coverage" NAME="swea_5105_미로거리 Coverage Results" MODIFIED="1551158067759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190226" />
+    <SUITE FILE_PATH="coverage/algo$4_swea_4875.coverage" NAME="4_swea_4875 Coverage Results" MODIFIED="1550810525022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190222" />
+    <SUITE FILE_PATH="coverage/algo$5_swea_1267.coverage" NAME="5_swea_1267 Coverage Results" MODIFIED="1550798053634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190221" />
+    <SUITE FILE_PATH="coverage/algo$4_swea_4873.coverage" NAME="4_swea_4873 Coverage Results" MODIFIED="1550727291801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190221" />
+    <SUITE FILE_PATH="coverage/algo$6_swea1210_recur.coverage" NAME="6_swea1210 recur Coverage Results" MODIFIED="1550709529398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190220" />
+    <SUITE FILE_PATH="coverage/algo$swea_4834.coverage" NAME="swea_4834 Coverage Results" MODIFIED="1550193239335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190215" />
+    <SUITE FILE_PATH="coverage/algo$3_swea_4880_.coverage" NAME="3_swea_4880_토너먼트 Coverage Results" MODIFIED="1551078199545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190225" />
     <SUITE FILE_PATH="coverage/algo$3_search.coverage" NAME="3_search Coverage Results" MODIFIED="1550470622699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190218" />
+    <SUITE FILE_PATH="coverage/algo$swea_4835.coverage" NAME="swea_4835 Coverage Results" MODIFIED="1550193885988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190215" />
+    <SUITE FILE_PATH="coverage/algo$5_swea_1259.coverage" NAME="5_swea_1259 Coverage Results" MODIFIED="1550556189720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190219" />
+    <SUITE FILE_PATH="coverage/algo$swea_1206.coverage" NAME="swea_1206 Coverage Results" MODIFIED="1550130008406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190214" />
+    <SUITE FILE_PATH="coverage/algo$7_swea_1220_magnetic.coverage" NAME="7_swea_1220_magnetic Coverage Results" MODIFIED="1551139536024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190225" />
+    <SUITE FILE_PATH="coverage/algo$ex1_pelin.coverage" NAME="ex1_pelin Coverage Results" MODIFIED="1551600632398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190303" />
+    <SUITE FILE_PATH="coverage/algo$4_ex3.coverage" NAME="4_ex3 Coverage Results" MODIFIED="1550646014484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190220" />
+    <SUITE FILE_PATH="coverage/algo$4_swea_4875_mirobfs.coverage" NAME="4_swea_4875_mirobfs Coverage Results" MODIFIED="1551150969027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190226" />
+    <SUITE FILE_PATH="coverage/algo$1_swea_4836.coverage" NAME="1_swea_4836 Coverage Results" MODIFIED="1550535940439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190219" />
+    <SUITE FILE_PATH="coverage/algo$ssss.coverage" NAME="ssss Coverage Results" MODIFIED="1550796614542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190221" />
+    <SUITE FILE_PATH="coverage/algo$1.coverage" NAME="1 Coverage Results" MODIFIED="1550110613954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190214" />
+    <SUITE FILE_PATH="coverage/algo$6_swea_1247_.coverage" NAME="6_swea_1247_최적경로 Coverage Results" MODIFIED="1551140462779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190225" />
+    <SUITE FILE_PATH="coverage/algo$3_swea_4839.coverage" NAME="3_swea_4839 Coverage Results" MODIFIED="1550543095543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190219" />
+    <SUITE FILE_PATH="coverage/algo$5_powerset.coverage" NAME="5_powerset Coverage Results" MODIFIED="1551083944806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190225" />
+    <SUITE FILE_PATH="coverage/algo$1_swea_1224.coverage" NAME="1_swea_1224 Coverage Results" MODIFIED="1550817723776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190222" />
+    <SUITE FILE_PATH="coverage/algo$4_swea_4843.coverage" NAME="4_swea_4843 Coverage Results" MODIFIED="1550545551245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190219" />
+    <SUITE FILE_PATH="coverage/algo$6_swea_1209.coverage" NAME="6_swea_1209 Coverage Results" MODIFIED="1550476000636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190218" />
+    <SUITE FILE_PATH="coverage/algo$1_swea_4869.coverage" NAME="1_swea_4869 Coverage Results" MODIFIED="1550795363823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190221" />
+    <SUITE FILE_PATH="coverage/algo$2_swea_4837.coverage" NAME="2_swea_4837 Coverage Results" MODIFIED="1550556918293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190219" />
+    <SUITE FILE_PATH="coverage/algo$ex2_next_permutation.coverage" NAME="ex2_next_permutation Coverage Results" MODIFIED="1550122312249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190214" />
+    <SUITE FILE_PATH="coverage/algo$swea_1208.coverage" NAME="swea_1208 Coverage Results" MODIFIED="1550191503486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190215" />
+    <SUITE FILE_PATH="coverage/algo$swea_5097_.coverage" NAME="swea_5097_회전 Coverage Results" MODIFIED="1551156197325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190226" />
+    <SUITE FILE_PATH="coverage/algo$2_ex1.coverage" NAME="2_ex1 Coverage Results" MODIFIED="1550798162909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190222" />
+    <SUITE FILE_PATH="coverage/algo$1_ex1.coverage" NAME="1_ex1 Coverage Results" MODIFIED="1551144141467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190226" />
+    <SUITE FILE_PATH="coverage/algo$2_swea_4881_.coverage" NAME="2_swea_4881_배열최소합 Coverage Results" MODIFIED="1551064570342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190225" />
+    <SUITE FILE_PATH="coverage/algo$4_selectionsort.coverage" NAME="4_selectionsort Coverage Results" MODIFIED="1550473713314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190218" />
+    <SUITE FILE_PATH="coverage/algo$ex5_babygen.coverage" NAME="ex5_babygen Coverage Results" MODIFIED="1550190822286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190214" />
+    <SUITE FILE_PATH="coverage/algo$ex4_countsort.coverage" NAME="ex4_countsort Coverage Results" MODIFIED="1550129868693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190214" />
+    <SUITE FILE_PATH="coverage/algo$3_swea_4874.coverage" NAME="3_swea_4874 Coverage Results" MODIFIED="1550808558545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/190222" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/190222/my_1_swea5656.py">
+        <entry file="file://$PROJECT_DIR$/190303/ex1_pelin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="29" lean-forward="true" selection-start-line="1" selection-end-line="3" selection-end-column="29" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="38">
+              <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/190226/swea_5102_노드거리.py">
+        <entry file="file://$PROJECT_DIR$/190226/swea_5097_회전.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="34" lean-forward="true" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+            <state relative-caret-position="266">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/190226/5102.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/190303/ex2_atoi.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/190225/6_swea_1247_최적경로.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/190226/5099.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/190226/5105.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="7" lean-forward="true" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/190226/4_swea_4875_mirobfs.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="505">
-              <caret line="54" column="25" lean-forward="true" selection-start-line="51" selection-start-column="4" selection-end-line="54" selection-end-column="25" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/190303/ex3_itoa.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -156,9 +117,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/190220/3_up.py" />
-        <option value="$PROJECT_DIR$/190220/5_swea1210.py" />
-        <option value="$PROJECT_DIR$/190220/6_swea1210 recur.py" />
         <option value="$PROJECT_DIR$/190221/2_swea_4866.py" />
         <option value="$PROJECT_DIR$/190221/4_swea_4873.py" />
         <option value="$PROJECT_DIR$/190220/input.txt" />
@@ -207,6 +165,9 @@
         <option value="$PROJECT_DIR$/190226/swea_5105_미로거리.py" />
         <option value="$PROJECT_DIR$/190225/6_swea_1247_최적경로.py" />
         <option value="$PROJECT_DIR$/190226/swea_5102_노드거리.py" />
+        <option value="$PROJECT_DIR$/190303/ex1_pelin.py" />
+        <option value="$PROJECT_DIR$/190303/ex2_atoi.py" />
+        <option value="$PROJECT_DIR$/190303/ex3_itoa.py" />
       </list>
     </option>
   </component>
@@ -223,6 +184,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -233,28 +195,17 @@
             <path>
               <item name="algo" type="b2602c69:ProjectViewProjectNode" />
               <item name="algo" type="462c0819:PsiDirectoryNode" />
-              <item name="190221" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algo" type="462c0819:PsiDirectoryNode" />
-              <item name="190222" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algo" type="462c0819:PsiDirectoryNode" />
-              <item name="190225" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algo" type="462c0819:PsiDirectoryNode" />
               <item name="190226" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algo" type="462c0819:PsiDirectoryNode" />
+              <item name="190303" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -262,7 +213,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -282,8 +233,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.swea_5102_노드거리">
-    <configuration name="my_1_swea5656" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.ex1_pelin">
+    <configuration name="ex1_pelin" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -291,12 +242,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/190222" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/190303" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/190222/my_1_swea5656.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/190303/ex1_pelin.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -395,11 +346,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex1_pelin" />
         <item itemvalue="Python.swea_5102_노드거리" />
         <item itemvalue="Python.swea_5099_pizza" />
         <item itemvalue="Python.swea_5105_미로거리" />
         <item itemvalue="Python.swea_5097_회전" />
-        <item itemvalue="Python.my_1_swea5656" />
       </list>
     </recent_temporary>
   </component>
@@ -423,16 +374,18 @@
       <workItem from="1550793045027" duration="21368000" />
       <workItem from="1551052087776" duration="27870000" />
       <workItem from="1551138584370" duration="25140000" />
+      <workItem from="1551503784768" duration="736000" />
+      <workItem from="1551579829745" duration="9911000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="181799000" />
+    <option name="totallyTimeSpent" value="192446000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2045952" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21334793" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -482,27 +435,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/190220/6_swea1210 recur.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/190220/2_ex2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="9" column="24" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="9" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/190220/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="31" selection-start-column="31" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/190220/3_up.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
@@ -602,13 +534,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Python/Lib/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="311" selection-start-line="311" selection-end-line="311" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://C:/Python/Lib/codecs.py" />
     <entry file="file://$PROJECT_DIR$/190222/3_swea_4874.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -756,69 +682,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/190226/4_swea_4875_mirobfs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="505">
-          <caret line="54" column="25" lean-forward="true" selection-start-line="51" selection-start-column="4" selection-end-line="54" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/190222/4_swea_4875.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="166">
           <caret line="27" column="23" lean-forward="true" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/190226/5099.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/190226/5105.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="7" lean-forward="true" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/190226/swea_5099_pizza.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/190226/swea_5097_회전.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="2" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/190222/my_1_swea5656.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="29" lean-forward="true" selection-start-line="1" selection-end-line="3" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/190225/6_swea_1247_최적경로.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/190226/5102.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
@@ -829,10 +696,82 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/190222/my_1_swea5656.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="3" column="29" selection-end-line="3" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/190226/5102.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/190226/5099.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/190226/5105.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/190226/swea_5102_노드거리.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="34" lean-forward="true" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+        <state relative-caret-position="551">
+          <caret line="29" column="23" lean-forward="true" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/190226/swea_5099_pizza.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/190225/6_swea_1247_최적경로.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/190226/4_swea_4875_mirobfs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="54" column="25" selection-start-line="51" selection-start-column="4" selection-end-line="54" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/190303/ex3_itoa.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/190303/ex2_atoi.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/190303/ex1_pelin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/190226/swea_5097_회전.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
