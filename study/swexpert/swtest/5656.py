@@ -37,25 +37,27 @@ def reset(brick,width,height):
 
 
 def bomb(now,cnt,brick,width,height,n):
-    t_brick = brick[:]
-    a=b=12*15
-    if cnt == n:
-        brick_cnt=0
-        for i in range(height):
-            for j in range(width):
-                if brick[i][j] != 0 :
-                    brick_cnt += 1
-        ans.append(brick_cnt)
-    elif now != width:
-        for i in range(height):
-            if brick[i][now] != 0:
-                break
-        # 같은자리
-        destroy(i,now,t_brick[i][now],t_brick,width,height)
-        reset(t_brick,width,height)
-        bomb(now,cnt+1,t_brick,width,height,n)
-        # 다음자리
-        bomb(now+1,cnt,brick,width,height,n)
+    # t_brick = brick[:]
+    # a=b=12*15
+    # if cnt == n:
+    #     brick_cnt=0
+    #     for i in range(height):
+    #         for j in range(width):
+    #             if brick[i][j] != 0 :
+    #                 brick_cnt += 1
+    #     ans.append(brick_cnt)
+    # elif now != width:
+    #     for i in range(height):
+    #         if brick[i][now] != 0:
+    #             break
+    #     # 같은자리
+    #     destroy(i,now,t_brick[i][now],t_brick,width,height)
+    #     reset(t_brick,width,height)
+    #     bomb(now,cnt+1,t_brick,width,height,n)
+    #     # 다음자리
+    #     bomb(now+1,cnt,brick,width,height,n)
+
+    
     
 
 
