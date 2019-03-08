@@ -19,7 +19,7 @@ def isok(llist,y,x,dir):
     elif dir == 1:
         for yy in range(y+1,n):
             temp.append((y, x))
-            if llist[yy][x] != 0:
+            if llist[yy][x] != 0:rn
                 return False
     elif dir == 2:
         for xx in range(0,x):
