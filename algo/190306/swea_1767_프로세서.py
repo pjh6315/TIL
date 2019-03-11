@@ -44,7 +44,7 @@ def dfs(llist,now,line,cnt,select_list=None):
         for dir in range(4):
             a = isok(llist,core[now][0],core[now][1],dir)
             if a != False:
-                
+                s
 
 
 
